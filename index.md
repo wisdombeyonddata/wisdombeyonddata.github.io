@@ -34,7 +34,7 @@ portfolio_description: My current projects focus on complex systems combining ma
 cta: Contact # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:evav.rooijen@live.nl # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta_button_label: send email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
