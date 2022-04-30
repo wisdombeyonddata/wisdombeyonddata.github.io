@@ -3,7 +3,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Hello world!
-banner_subtitle: A data-geek who enjoys sewing, lifing weights and motorcycle adventures while trying to comprehend complex systems.
+banner_subtitle: A data-geek who enjoys sewing, lifing weights and motorcycle adventures # while trying to comprehend complex systems.
 background_image: /images/chaos.jpg
 
 # all of the following variables are optional -----------------
