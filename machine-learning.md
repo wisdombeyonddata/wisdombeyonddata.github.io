@@ -49,7 +49,7 @@ cta_button_label: contact # the label on the button
 - Visually explore datasets
 - Effectively present (communicate) your main findings
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
+**Machine Learning** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
 development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
 who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
   
