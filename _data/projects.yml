@@ -6,11 +6,11 @@ work:
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: example2.html
         image: /images/NYC2.jpg
   - category: Previous
     items:
-      - item: example2.html
+      - item: example3.html
         image: /images/LA3.jpg
       - item: example3.html
         image: /images/LA4.jpg
