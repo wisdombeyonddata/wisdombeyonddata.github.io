@@ -27,8 +27,8 @@ about_button_label: View Code # the label on the button
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-# portfolio: projects # the heading for your portfolio and title of your YAML file
-# portfolio_description: My current projects focus on complex systems combining mathematical methods for causal analysis in networks (graphs) with social scineces research on interdisciplinary collaboration. In previous projects, I have worked on Economic Forecasting models (Time Series) and Representation Learning (infoGAN).
+portfolio: projects # the heading for your portfolio and title of your YAML file
+portfolio_description: My current projects focus on complex systems combining mathematical methods for causal analysis in networks (graphs) with social scineces research on interdisciplinary collaboration. In previous projects, I have worked on Economic Forecasting models (Time Series) and Representation Learning (infoGAN).
 
 # CTA section 
 cta: Contact # the heading for your CTA section
