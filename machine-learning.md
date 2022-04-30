@@ -41,6 +41,13 @@ cta_button_label: contact # the label on the button
 ### Learning from Data: Part II 
 
 ## Machine Learning
+
+### Course Objectives: After this course, you are able to
+- Import your own datasets in several formats
+- Resolve common data issues such as missing values and outliers
+- Apply basic statistical techniques to test hypotheses
+- Visually explore datasets
+- Effectively present (communicate) your main findings
   
 **hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
 development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
