@@ -9,7 +9,7 @@ banner_subtitle: a minimalist template for personal websites
 background_image: /images/chaos.jpg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+page_url: / # only include this variable if you aren't building the page to your primary domain else /hello
 
 # favicon
 favicon: /assets/ico/favicon.ico
