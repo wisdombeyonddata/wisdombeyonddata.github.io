@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Hello World!
+author: Eva van Rooijen
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  A data-geek who enjoys sewing, lifing weights and motorcycle adventures while trying to comprehend complex systems.
 baseurl: ""
 
 plugins:
