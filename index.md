@@ -1,11 +1,9 @@
 ---
 layout: hello-default
 
-# using Markdown language, you can customize the following variables!
-
 # these variables are required -------------------------------
 banner_title: Hello world!
-banner_subtitle: a minimalist template for personal websites
+banner_subtitle: A data-geek who enjoys sewing, lifing weights and motorcycle adventures while trying to comprehend complex systems.
 background_image: /images/chaos.jpg
 
 # all of the following variables are optional -----------------
