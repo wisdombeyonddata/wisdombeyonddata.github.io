@@ -4,13 +4,13 @@
 projects:
   - category: Current Research Projects
     items:
-      - item: example.html
+      - item: research-causal-graphs.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example2.html
+      - item: research-evolutionary-algorithms.html
         image: /images/NYC2.jpg
   - category: Previous Courses
     items:
-      - item: example3.html
+      - item: course-data-exploration.html
         image: /images/LA3.jpg
-      - item: example3.html
+      - item: course-machine-learning.html
         image: /images/LA4.jpg
