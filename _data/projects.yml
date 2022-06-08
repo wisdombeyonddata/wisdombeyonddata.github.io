@@ -4,13 +4,10 @@
 work:
   - category: Current
     items:
-      - item: example.html
+      - item: art.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example2.html
-        image: /images/NYC2.jpg
+
   - category: Previous
     items:
-      - item: example3.html
+      - item: course.html
         image: /images/LA3.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
