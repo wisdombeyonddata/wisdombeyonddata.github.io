@@ -2,13 +2,11 @@
 # in the root directory
 
 projects:
-  - category: Current Research Projects
+  - category: Art Installation: Explaining AI
     items:
-      - item: research-causal-graphs.html
+      - item: art-installation.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: research-evolutionary-algorithms.html
-        image: /images/NYC2.jpg
-  - category: Previous Courses
+  - category: Open Course
     items:
       - item: course-data-exploration.html
         image: /images/LA3.jpg
