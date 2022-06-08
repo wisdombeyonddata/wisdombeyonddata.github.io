@@ -4,7 +4,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Hello world!
 banner_subtitle: A data-geek who enjoys sewing, lifing weights and motorcycle adventures # while trying to comprehend complex systems.
-background_image: /images/chaos.jpg
+background_image: /images/giverny.jpg
 
 # all of the following variables are optional -----------------
 # page_url: / # only include this variable if you aren't building the page to your primary domain else /hello
