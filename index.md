@@ -22,8 +22,8 @@ linkedin: evavanrooijen # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/evavanrooijen # the link
-about_button_label: get hello # the label on the button
+about_button: [https://github.com/evavanrooijen/assets/](https://evavanrooijen.github.io/assets/CV.pdf) # the link
+about_button_label: View CV # the label on the button
 
 # optional portfolio section ------------------------------------------
 
